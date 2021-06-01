@@ -2,7 +2,7 @@
 * Type : "git pull" For Updates Tools
 * Method Crack https://b-api.facebook.com
 * Log in With Token And Cookie (anti checkpoint, don't use new account)
-* Have Any Problem Login Token Please Check This : https://www.facebook.com/100015073506062/posts/1137297496782690/?app=fbl
+* Have Any Problem Login Token Please Check This : 
 
 # Command
 ```
